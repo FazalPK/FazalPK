@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FazalPK
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Plugin Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fazalpk.work@gmail.com
+- 💞️ I’m looking forward to collaborate
+- 📫 Reach me at fazalpk.work@gmail.com
 
 <!---
 FazalPK/FazalPK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
